@@ -8,29 +8,29 @@ About me
     <title>Riley Mask's Portfolio</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background: #f4f4f4;
             color: #333;
         }
         header {
             background-color: #4CAF50;
             color: white;
-            padding: 1em;
+            padding: 1em 0;
             text-align: center;
         }
         nav {
+            display: flex;
+            justify-content: center;
             background-color: #333;
-            overflow: hidden;
         }
         nav a {
-            float: left;
+            padding: 14px 20px;
             display: block;
             color: white;
-            text-align: center;
-            padding: 14px 16px;
             text-decoration: none;
+            text-align: center;
         }
         nav a:hover {
             background-color: #ddd;
@@ -38,6 +38,10 @@ About me
         }
         main {
             padding: 2em;
+            background: white;
+            max-width: 900px;
+            margin: 2em auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         footer {
             background-color: #333;
@@ -49,6 +53,11 @@ About me
             bottom: 0;
         }
         .section-title {
+            color: #4CAF50;
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 0.5em;
+        }
+        .contact-info {
             color: #4CAF50;
         }
     </style>
@@ -87,7 +96,7 @@ About me
     
     <section id="contact">
         <h2 class="section-title">Contact</h2>
-        <p>You can reach me at <a href="mailto:riley.wmask@gmail.com">riley.mask@example.com</a>.</p>
+        <p>You can reach me at <a href="mailto:riley.w.mask@gmail.com" class="contact-info">riley.w.mask@gmail.com</a>.</p>
     </section>
 </main>
 
@@ -97,3 +106,4 @@ About me
 
 </body>
 </html>
+
