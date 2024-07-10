@@ -87,7 +87,7 @@ About me
     
     <section id="contact">
         <h2 class="section-title">Contact</h2>
-        <p>You can reach me at <a href="mailto:riley.mask@example.com">riley.mask@example.com</a>.</p>
+        <p>You can reach me at <a href="mailto:riley.wmask@gmail.com">riley.mask@example.com</a>.</p>
     </section>
 </main>
 
