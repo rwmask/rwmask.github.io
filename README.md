@@ -88,7 +88,7 @@ About me
     <section id="experience">
         <h2 class="section-title">Experience</h2>
         <h3>Internship Experience</h3>
-        <p>I have internship experience working with a professor at my town's university, managing and distributing testing kits across Texas and surrounding states. This role involved ensuring each box contained the correct items tailored specifically to each student and verifying all postal codes on package information to guarantee accurate and timely delivery.</p>
+        <p>I have internship experience working with a professor at my town's university, managing and distributing testing kits across Texas and surrounding states. These kits were designed to test and evaluate children with disabilities to show students proficitany and diagnostics testing kids. Futhermore, this role involved ensuring each box contained the correct items tailored specifically to each student and verifying all postal codes on package information to guarantee accurate and timely delivery.</p>
         <h3>School Faculty Assistance</h3>
         <p>During my high school career, I efficiently handled administrative tasks to support the Assistant Principal and Secretary, enabling them to perform their jobs more effectively. My responsibilities included distributing paperwork to teachers, collecting signatures, managing and tracking technology distribution across multiple grade levels, and documenting any issues with the issued technology.</p>
     </section>
